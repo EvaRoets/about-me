@@ -1,0 +1,160 @@
+body {
+    background-color: #BFCDE0;
+    color: #3B3355;
+}
+
+.container{
+    display: grid;
+    grid-template-rows: repeat(5, auto);
+    grid-template-columns: 33%,33%,33%;
+}
+h1 {
+    color: #3B3355;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-decoration: underline;
+}
+h2 {
+    color: #3B3355;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 18px;
+    text-decoration: underline;
+}
+h3 {
+    color: #3B3355;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-decoration: underline;
+}
+h4 {
+    color: #3B3355;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+
+}
+p {
+    color:#3B3355;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.EvaRoets-text{
+
+}
+
+.EvaRoets-image {
+    text-align: center;
+}
+
+.table {
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 25%;
+    margin-right: 25%;
+    color:#3B3355;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover {background-color:#f5f5f5;}
+
+.hobbies {
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace
+}
+
+ul {
+    text-align: left;
+    list-style: inside;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+ul li {
+    list-style-type: square;
+}
+
+ul li.sublist {
+    list-style-type: circle;
+}
+
+.centered-paragraph {
+    width: 50%;
+    border-collapse: collapse;
+    margin-left: 25%;
+    margin-right: 25%;
+    color:#3B3355;
+    text-align: justify;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+
+
+
+.dadjoke {
+    text-align: center
+}
+
+
+
+
+
+.footer {
+    text-align: center;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.button1 {
+    background-color: #BFCDE0;
+    color: #5D5D81;
+    border: 2px solid #3B3355;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+}
+
+.button1:hover {
+    background-color: white;
+    color: #3B3355;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+}
+
+.button2 {
+    background-color: #BFCDE0;
+    color: #5D5D81;
+    border: 2px solid #3B3355;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+}
+
+.button2:hover {
+    background-color: white;
+    color: #3B3355;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+}
