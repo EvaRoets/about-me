@@ -1,5 +1,7 @@
 # About me 🤸🏼
 
+Watch the result of this project >> [here](https://brave-austin-51da7a.netlify.app/)
+
 ![about-me](https://user-images.githubusercontent.com/84382812/136955908-5ec48fb1-a8be-4160-9e93-70ee9731f6e8.PNG)
 
 ## Objectives
