@@ -1,15 +1,19 @@
 # About me 🤸🏼
 
-Watch the result of this project >> [here](https://brave-austin-51da7a.netlify.app/)
+Watch the result of this project >> [here](https://1-about-me.netlify.app/)
 
 ![about-me](https://user-images.githubusercontent.com/84382812/136955908-5ec48fb1-a8be-4160-9e93-70ee9731f6e8.PNG)
 
-## Objectives
-Create a page to introduce yourself. Every page will link to the next student, so one can click through to the students of the whole class.
+## 🎯 Objectives
+- Get to know your classmates
+- Refresh your HTML/CSS skills
 
-## Specifications
-### Phase 1: content
+## ✔️ Specifications
+Create a page to introduce yourself. Every page will link to the next student, so you can click to the students of the whole class.
 
+
+### 🌱 Must-haves
+#### 1️⃣ Content
 Create a page and make sure you have the following content
 - Your name (as a large header)
 - An inspirational quote in _italics_
@@ -32,14 +36,14 @@ Create a page and make sure you have the following content
 - TL;DR (even smaller header, under funny story)
 - Summarise your funny story in one short sentence.
 
-### Phase 2: styling
+#### 2️⃣ Styling
 Add some CSS to tweak the styling to your liking.
 
-### Phase 3: putting it online
+#### 3️⃣ Putting it online
 [Netlify](https://www.netlify.com/) provides a simple drag & drop interface to host simple HTML/CSS website.
 Create an account and host yours.
 
-### Phase 4: next / previous
+#### 4️⃣ Next / previous
 Add links to the previous and next person in class to click through the full group, adopting the structure below
 << previous || YOUR NAME || next >>
 
